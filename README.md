@@ -25,24 +25,6 @@ Me chamo Luiz Gabriel, tenho 19 anos e sou natural de São Paulo. Concluí o ens
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-/>
-
-/>
-
-/>
-
-/>
-
-/>
-
-/>
-
-/>
-
-/>
-
-/>
-
 <img 
     align="left" 
     alt="Git" 

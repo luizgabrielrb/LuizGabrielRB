@@ -19,7 +19,7 @@
 
 Me chamo **Luiz Gabriel**, tenho 19 anos e sou natural de **São Paulo**. Concluí o ensino médio com o curso técnico em **Desenvolvimento de Sistemas**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na UNIP**.
 
-- 🔐 Foco em **Ciber Security**
+- 🔐 Foco em **Cyber Security**
 - 🌱 Aprendendo e praticando todos os dias
 - 📍 São Paulo, Brasil 🇧🇷
 

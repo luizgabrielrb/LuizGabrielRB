@@ -1,77 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Luiz%20Gabriel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:2e1065,100:a855f7&height=230&section=header&text=root%40luizgabriel&fontSize=52&fontColor=a855f7&animation=twinkling&fontAlignY=38&desc=%5B%20Cyber%20Security%20%7C%20Dev%20%7C%20Linux%20%5D&descAlignY=60&descSize=20&descColor=a855f7" alt="header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Luiz+Gabriel!+%F0%9F%91%8B;Estudante+de+Ciber+Security+%F0%9F%94%90;Estudando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+%F0%9F%92%BB" alt="Typing SVG" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/luiz-gabriel-r-699bb02bb/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=a855f7&background=00000000&center=true&vCenter=true&width=640&height=60&lines=root%40kali%3A~%23+whoami;luiz_gabriel+%7C+19+anos+%7C+S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7;root%40kali%3A~%23+cat+objetivo.txt;Tornar-me+especialista+em+Ciberseguran%C3%A7a+%F0%9F%94%90;root%40kali%3A~%23+sudo+apt+install+conhecimento;%5B%2B%5D+Aprendendo+todos+os+dias..." alt="Typing SVG" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=luizgabrielrb&color=00ff41&style=for-the-badge&label=VISITAS" alt="Visitas">
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-a855f7?style=for-the-badge&labelColor=000000" alt="status"/>
+<img src="https://img.shields.io/badge/FOCO-CYBER%20SECURITY-a855f7?style=for-the-badge&logo=hackthebox&logoColor=a855f7&labelColor=000000" alt="foco"/>
+<img src="https://img.shields.io/badge/OS-KALI%20LINUX-a855f7?style=for-the-badge&logo=kalilinux&logoColor=a855f7&labelColor=000000" alt="os"/>
+<img src="https://img.shields.io/badge/UNIP-ADS-a855f7?style=for-the-badge&labelColor=000000" alt="unip"/>
 
 </div>
 
 ---
 
-## 👨🏻‍💻 Sobre mim
+## `$ neofetch`
 
-Me chamo **Luiz Gabriel**, tenho 19 anos e sou natural de **São Paulo**. Concluí o ensino médio com o curso técnico em **Desenvolvimento de Sistemas**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na UNIP**.
-
-- 🔐 Foco em **Cyber Security**
-- 🌱 Aprendendo e praticando todos os dias
-- 📍 São Paulo, Brasil 🇧🇷
+```bash
+       ,-.                luiz@kali
+      / \ `.  __..-,O     ---------------------------
+     :   \ --''_..-'.'    Nome ........ Luiz Gabriel
+     |    . .-' `. '.     Idade ....... 19
+     :     .     .`.'     Local ....... São Paulo, BR
+      \     `.  /  ..     Formação .... Téc. Desenv. de Sistemas
+       \      `.   ' .    Cursando .... ADS - UNIP
+        `,       `.   \   Foco ........ Cyber Security
+       ,|,`.        `-.\  Shell ....... bash
+      '.||  ``-...__..-`  Status ...... aprendendo 24/7
+       |  |
+       |__|
+       /||\
+      //||\\
+     // || \\
+  __//__||__\\__
+ '--------------'
+```
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## `$ cat sobre.txt`
+
+```text
+[*] Concluí o ensino médio com o curso técnico em Desenvolvimento de Sistemas.
+[*] Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIP.
+[*] Meu foco é Cyber Security: entender como os sistemas funcionam
+    para aprender a protegê-los.
+[*] Sempre estudando, praticando em laboratórios e evoluindo.
+```
+
+---
+
+## `$ ls ~/skills`
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="55" height="55"/>
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github,linux,bash&theme=dark" alt="skills"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=a855f7" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=a855f7" alt="CSS"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=a855f7" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=a855f7" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=a855f7" alt="Linux"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=a855f7" alt="Kali"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## `$ ./mission.sh`
+
+```bash
+#!/bin/bash
+# mission.sh - plano de estudos em Cyber Security
+
+areas=(
+  "Redes e protocolos"
+  "Linux & linha de comando"
+  "Criptografia"
+  "Scripts de automação em Python"
+  "Pentest e laboratórios (CTF)"
+)
+
+for area in "${areas[@]}"; do
+  echo "[+] Estudando: $area"
+done
+
+echo "[✔] Evolução contínua... carregando"
+```
+
+---
+
+## `$ cat progresso.log`
+
+```text
+[OK] Técnico em Desenvolvimento de Sistemas concluído
+[OK] Ingressei em Análise e Desenvolvimento de Sistemas (UNIP)
+[..] Graduação em andamento
+[..] Aprofundando em Linux, Python e redes
+[  ] Primeiro projeto de segurança com Python
+[  ] Primeira certificação em Cyber Security
+[  ] Participar de CTFs e plataformas de treino
+```
+
+---
+
+## `$ git stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizgabrielrb&show_icons=true&theme=dark&hide_border=true&title_color=00ff41&icon_color=00ff41" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielrb&layout=compact&theme=dark&hide_border=true&title_color=00ff41" alt="Linguagens" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizgabrielrb&show_icons=true&hide_border=true&bg_color=000000&title_color=a855f7&icon_color=a855f7&text_color=e9d5ff" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielrb&layout=compact&hide_border=true&bg_color=000000&title_color=a855f7&text_color=e9d5ff" alt="Top Languages"/>
 
-<br><br>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=luizgabrielrb&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=luizgabrielrb&hide_border=true&background=000000&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=e9d5ff" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
-
-</div>
-
----
-
-## 📫 Contato
+## `$ ssh contato@luiz`
 
 <div align="center">
 
-<a href="mailto:luizgabriellrb@gmail.com">
-  <img src="https://img.shields.io/badge/-Enviar%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail">
+<a href="https://www.linkedin.com/in/luiz-gabriel-r-699bb02bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7&labelColor=000000&color=a855f7" alt="LinkedIn"/>
 </a>
-<a href="https://www.linkedin.com/in/luiz-gabriel-r-699bb02bb/" target="_blank">
-  <img src="https://img.shields.io/badge/-Meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://github.com/luizgabrielrb">
+  <img src="https://img.shields.io/badge/GitHub-FOLLOW-000000?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=000000&color=a855f7" alt="GitHub"/>
 </a>
+
+<br/><br/>
+
+```text
+[+] Conexão estabelecida.
+[+] Aberto a trocas de conhecimento e oportunidades em tecnologia e segurança.
+root@kali:~# _
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:2e1065,100:a855f7&height=120&section=footer" alt="footer" width="100%"/>
 
 </div>
